@@ -75,7 +75,7 @@ public class Main {
 
         int one = 5;
         int two = 55;
-        int three = 3;
+        int three = 33;
 
         if (one >= two && one >= three) {
             System.out.println(one);
